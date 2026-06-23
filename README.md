@@ -1,2 +1,4 @@
-<img width="300" height="300" alt="kawaii-cake" src="https://github.com/user-attachments/assets/4a66223b-ee73-4061-8088-233aec7ef57d" />
+  <img width="500" height="70" alt="divider-pixel" src="https://github.com/user-attachments/assets/c9b25638-c87b-48e5-ae37-c31e9c461777" />
+  
 
+ hiii i go by riff/kai!
